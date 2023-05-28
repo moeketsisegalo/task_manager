@@ -25,3 +25,14 @@ pip install -r requirements.txt
 ```
 
 4. Run the code using the IDE's run or debug functionality.
+
+
+### Running with Docker
+1. Clone the repository to your local machine if you haven't done so already.
+```
+git clone https://github.com/moeketsisegalo/task_manager.git
+```
+2. Navigate to the project directory.
+
+3. Build the Docker image by running the following command:
+```docker build -t task-manager .```
