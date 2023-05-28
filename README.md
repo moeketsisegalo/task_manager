@@ -34,10 +34,14 @@ git clone https://github.com/moeketsisegalo/task_manager.git
 ```
 docker build -t task-manager .
 ```
+![build Screenshot](screenshots/build_app.png)
+
 4.Once the image is built successfully, you can run a container using the following command:
 ```
 docker run -it task-manager
 ```
+![Run Screenshot](screenshots/run_app.png)
+
 ## Usage
 1. Run the task_manager.py file using a Python interpreter.
 2. The program will prompt you with options to register a user, add a task, view all tasks, or generate reports.
