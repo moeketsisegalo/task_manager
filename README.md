@@ -19,12 +19,8 @@ These instructions will guide you on how to set up and run the code on your loca
 git clone https://github.com/moeketsisegalo/task_manager.git
 ```
 2. Open your preferred IDE and navigate to the project directory.
-3. Install the required dependencies listed in the requirements.txt file by running the following command:
-```
-pip install -r requirements.txt
-```
 
-4. Run the code using the IDE's run or debug functionality.
+3. Run the code using the IDE's run or debug functionality.
 
 
 ### Running with Docker
