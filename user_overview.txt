@@ -1,0 +1,10 @@
+****************************************User Overview Reports*************************************************************
+This report is for the user:                                                admin
+total number of users:                                                      4
+Total amount of task generated :                                            4
+Total number of tasks assigned to the user:                                 2
+Percentage of total number of tasks that have been assigned to the user:    50%
+Percenatage of the tasks assigned to that user that have been completed:    0%
+Percenatage of the tasks assigned to that user that must still be completed:100%
+Total percentage of user tasks not completed and are overdue::              100%
+****************************************************************************************************************************
